@@ -1,0 +1,18 @@
+# Test Case
+
+## Test Plans
+## Input
+*  How : Our Implementation for this step requires multiple steps :
+*  Step 1 : Find a distance value between each pqir of snesors. To test the distance value, we may use the number we see 
+for the height and length, as well as  as the Pythagorean Theorem.
+* Step 2 : Check the angle found between each pair of sensors using the distance value initally found.
+* step 3 : Using the values, the angle should approximately to be detect different types of obstacles
+* step 4 : Detect the obstacles
+
+## output :
+* As we had steps for each test, we will amke steps
+* step 1 : comapre the outputted value for the hypotenuase to the value
+* step 2 : using the same technique as step 1 except calculating the angle
+* step 3 : Adding audio to the buzz sensirs
+
+## Test cases 

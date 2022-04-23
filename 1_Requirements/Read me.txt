@@ -1,0 +1,14 @@
+#Introduction
+
+ This project as the name suggests is based on Buzz and Led Sensors worked sending the sound wave at a frequency above range of human hearing.
+
+## High level requirement
+
+  * Atmega
+  *Temperature sensor
+  * Display
+
+# low level Requirement
+  
+   * Turn On
+   * Turn Off 
