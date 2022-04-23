@@ -1,0 +1,13 @@
+## Buzz and led sensors with Atmega328p Microprocessor
+
+This project as the name suggests is based onn Buzzer and Led Sensors by sending out the sound waves and light emission.
+
+## Introduction
+
+ AN buzzer and Led based project that detects the timing and and buzz the sound waves.
+
+## Conclusion
+
+The objective of the project was to design and implement an buzzer and led. The device described here can detect can target.
+
+## all test cases are passed.
